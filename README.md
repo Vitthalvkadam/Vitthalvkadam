@@ -16,10 +16,8 @@
 - 🌱 Learning **Advanced Java, node js, Telwind CSS**
 - 💬 Ask me about **Java, OOP, Git**
 - 📫 How to reach me: **vitthalvkadam@gmail.com**
-## 🌐 Portfolio Website
+## 🌐 Portfolio: https://portfolio-nine-sepia-86.vercel.app/
 
-🔗  
--portfolio: https://portfolio-nine-sepia-86.vercel.app/
 
 
 ## 🛠️ Skills
