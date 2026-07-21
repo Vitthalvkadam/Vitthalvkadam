@@ -18,12 +18,9 @@
 - 📫 How to reach me: **vitthalvkadam@gmail.com**
 ## 🌐 Portfolio Website
 
-🔗 **Live Demo:**  
-https://portfolio-nine-sepia-86.vercel.app/
+🔗  
+-portfolio: https://portfolio-nine-sepia-86.vercel.app/
 
-> 📱 Fully Responsive • 💻 Desktop • 📱 Mobile • 📟 Tablet
-
----
 
 ## 🛠️ Skills
 - **Languages:** Java, JavaScript, python, c, c++  
