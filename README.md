@@ -8,7 +8,7 @@
 
 ---
 <p align="center">
- 🎓 Student | 💻 Familiar with Java  | 🌱 Learning Development  
+ 🎓 Student | 💻 Enjoy to code with Java  | 🌱 Learning Development  
 </p>
 
 ## 🚀 About Me
