@@ -8,13 +8,13 @@
 
 ---
 <p align="center">
- 🎓 Student | 💻 Enjoy to code with Java  | 🌱 Learning Development  
+ 🎓 Student | Learning Java full stack  | 🌱 Learning Development  
 </p>
 
 ## 🚀 About Me
 - 🔭 Currently working on **Java, DSA & Development**
-- 🌱 Learning **Advanced Java, node js, Telwind CSS**
-- 💬 Ask me about **Java, OOP, Git**
+- 🌱 Learning **Advanced Java, node js, Telwind CSS,Cloud**
+- 💬 Ask me about **Java, OOP, Git, Sping, Mysql**
 - 📫 How to reach me: **vitthalvkadam@gmail.com**
 - 🌐 Portfolio: https://portfolio-nine-sepia-86.vercel.app/
 
