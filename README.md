@@ -22,8 +22,8 @@
 
 ## 🛠️ Skills
 - **Languages:** Java, JavaScript, python, c, c++  
-- **Frontend:** HTML, CSS  
-- **Tools:** Git, GitHub, VS Code  
+- **Frontend:** HTML, CSS, React js,Tailwind css  
+- **Tools:** Git, GitHub, VS Code, Intellij idea, Postman, Android Studio
 - **Concepts:** OOP, DSA, Sorting Algorithms, Searching Algorithims, rescursion etc.
 
 ---
