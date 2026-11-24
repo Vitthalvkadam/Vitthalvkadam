@@ -1,7 +1,5 @@
 <p align="center">
-  <!-- <a href="https://YOUR-PORTFOLIO-URL"> -->
-  <img src="https://img.shields.io/badge/Portfolio-060b16?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI%2BPHBhdGggZD0iTTE3IDE4bDEyIDI4IDYtMTRNNDcgMThMMzMgNDYiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSI2IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48L3N2Zz4K" alt="Portfolio"/>
-<!-- </a> -->
+
   <b>RUNNING TOWARDS MY NEXT BIG PROJECT...</b>
 </p>
 ---
