@@ -1,12 +1,6 @@
-<div align="center">
-  <img src="YOUR_RUNNING_PERSON_GIF_URL" width="100"/>
-  <h3>🏃 Running towards the next bug...</h3>
-</div> 
-<h1 align="center">
-
-   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=30&pause=1200&color=6C63FF&center=true&vCenter=true&width=500&lines=Hello+👋+I'm+Vitthal+Kadam;Java+Developer;Learning+DSA+%26+Development" />
-
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/assets/running.gif" width="120"/>
+</p>
 </h1>
 
 
