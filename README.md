@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/running.gif" width="120" alt="Running developer"/>
+  <img src="https://media.tenor.com/2roX3uxz_68AAAAC/cat-typing.gif" width="100" />
+  <b>RUNNING TOWARDS MY NEXT BIG PROJECT...</b>
 </p>
-
 ---
 <p align="center">
  🎓 Student | Learning Java full stack  | 🌱 Learning Development  
