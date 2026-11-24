@@ -115,7 +115,6 @@ CampusConnect**
 
 ### 🧪 Data Science & Notebooks
 <img src="https://skillicons.dev/icons?i=anaconda,jupyter" />
-### 📊 Productivity Tools
 <img src="https://skillicons.dev/icons?i=word,excel" />
 
 </td>
