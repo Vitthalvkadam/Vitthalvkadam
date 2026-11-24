@@ -115,7 +115,7 @@ CampusConnect**
 
 ### 🧪 Data Science & Notebooks
 <img src="https://skillicons.dev/icons?i=anaconda,jupyter" />
-<img src="https://skillicons.dev/icons?i=word,excel" />
+
 
 </td>
 <td align="center" width="50%">
@@ -123,6 +123,11 @@ CampusConnect**
 ### 🎮 Design & 3D Development
 <img src="https://skillicons.dev/icons?i=unity,blender" />
 
+</td>
+<td>
+ ### 📊 Productivity Tools
+<img src="https://skillicons.dev/icons?i=word,excel" />
+ 
 </td>
 </tr>
 </table>
