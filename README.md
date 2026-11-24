@@ -32,10 +32,11 @@
 ---
 
 ## 📂 Projects
-- 📌 **Crop Detection System**
-- 📌 **Expense Tracker Web App**
+- 📌 **Campus-Connect: Campus Event Discovery Portal
+CampusConnect**
+- 📌 **Hackthon-Buddy : Hackathon Team Matching Platform Hackathon Buddy**
 - 📌 **Blood bank management system**
-
+  
 ---
 
 
