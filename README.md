@@ -58,36 +58,71 @@ CampusConnect**
 </a>
 </p>
 
-# 💻 Tech Stack:
 
-<h2 align="center">🛠️ Tech Stack</h2>
 
-<h3 align="center">💻 Languages</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,php" />
-</p>
+# 💻 Tech Stack
 
-<h3 align="center">🌐 Frontend</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react" />
-</p>
+<h2 align="center">🛠️ Technologies & Tools</h2>
 
-<h3 align="center">⚙️ Backend & Frameworks</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
-</p>
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
-<h3 align="center">🗄️ Databases</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-</p>
+### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,php" />
 
-<h3 align="center">🧰 Tools & Platforms</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,idea" />
-</p>
+</td>
+<td align="center" width="50%">
 
-<h3 align="center">🎮 Design & 3D</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,blender" />
-</p>
+### 🌐 Frontend Development
+<img src="https://skillicons.dev/icons?i=html,css,react" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+
+### ⚙️ Backend & Frameworks
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
+
+</td>
+<td align="center" width="50%">
+
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+
+### 🧰 Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman" />
+
+</td>
+<td align="center" width="50%">
+
+### 💡 IDEs & Editors
+<img src="https://skillicons.dev/icons?i=vscode,idea,eclipse" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+
+### 🧪 Data Science & Notebooks
+<img src="https://skillicons.dev/icons?i=anaconda,jupyter" />
+
+</td>
+<td align="center" width="50%">
+
+### 🎮 Design & 3D Development
+<img src="https://skillicons.dev/icons?i=unity,blender" />
+
+</td>
+</tr>
+</table>
+
